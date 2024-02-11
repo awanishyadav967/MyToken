@@ -34,7 +34,7 @@ To deploy and interact with this contract, you can use Remix, an online Solidity
 4. Compile the code by clicking on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.24" (or another compatible version), and then click on the "Compile MyToken.sol" button.
 5. Deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MyToken" contract from the dropdown menu, and then click on the "Deploy" button.
 
-- [Explanation Video](https://www.loom.com/share/ed1a40bd77344ec1acbea4ca15d46fea?sid=e735ca75-6842-414c-b924-d7b148078dee)
+- [Code Explanation Video](https://www.loom.com/share/ed1a40bd77344ec1acbea4ca15d46fea?sid=e735ca75-6842-414c-b924-d7b148078dee)
 
 ## Authors
 
